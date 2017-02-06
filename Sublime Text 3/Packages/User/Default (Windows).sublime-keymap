@@ -1,0 +1,24 @@
+[
+    {
+      "keys": ["alt+r"], "command": "browser_refresh", "args": {
+        "auto_save": true,
+        "delay": 0.0,
+        "activate": true,
+        "browsers" : ["chrome"]
+      }
+    },
+      { "keys": ["ctrl+alt+i"],
+      "command": "reindent"
+     },
+   {
+    //was not working there but exact
+    "keys": ["alt+shift+1"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 1.0],
+      "rows": [0.0, 1.0],
+      "cells": [[0, 0, 1, 1]]
+    }
+  },
+   ]

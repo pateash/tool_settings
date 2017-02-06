@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"3D Tool (Async Burst-Mode)",
+		"Bash Build System",
+		"Bootstrap 3 Autocomplete",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Browser Refresh",
+		"C++ Completions",
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"C++11",
+		"CodeIgniter Snippets",
+		"CodeIgniter Utilities",
+		"Colorsublime",
+		"Compare Side-By-Side",
+		"Competitive Programming",
+		"Emmet",
+		"Facebook Material Theme",
+		"Git Mode",
+		"GitGutter",
+		"HTML Snippets",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"Laravel 5 Artisan",
+		"LiveReload",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Codebeautifier",
+		"PHP Comment Wrap",
+		"PHP Completions Kit",
+		"ShellCommand",
+		"Theme - Brogrammer",
+		"WebFont"
+	]
+}

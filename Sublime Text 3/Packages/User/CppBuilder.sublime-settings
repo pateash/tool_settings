@@ -1,0 +1,56 @@
+{
+//=============================================================
+    //per project settings (can also be set to apply to every file)
+    //input folders
+    
+    //library directories 
+    "lib_dir": [
+    ],
+
+    //library names
+    "lib_names": [
+    ],
+
+    //header directory
+    "include_dir": [
+    ],
+
+    //where to get the .cpp files
+    "src_dir": "",
+
+    //output folders
+    //the name of the file to generate (the final executable )
+    "main_file": "",
+
+    "obj_dir": "",
+
+    //where to build the final executable
+    "build_dir": "",
+
+
+    //compiler
+    "cc": "g++",
+    "clean":[
+    ],
+
+//============================================================
+//Linux Specific options:
+
+    //command that opens a new terminal
+    "terminal_emu":"x-terminal-emulator",
+    "terminal_opts": [
+        "-x"
+    ],
+
+//============================================================
+
+    //additional flags for the compiler
+    "additional_flags": [
+        "Wall",
+        "std=c++11",
+        "D__USE_MINGW_ANSI_STDIO=1"
+    ],
+
+    //Default Project Settings
+    "workspace_dir":""
+}
