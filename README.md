@@ -32,4 +32,4 @@
 ```sh
     sudo apt-get install synaptic
 ```
-- [ ] remarkable - md editor app
+- [ ] remarkable - md editor app [website]( https://remarkableapp.github.io/) 
