@@ -28,3 +28,7 @@
 - [ ] shutter
 - [ ] lightworks
 - [ ] gitter
+- [ ] synaptic packet manager
+```sh
+    sudo apt-get install synaptic
+```
