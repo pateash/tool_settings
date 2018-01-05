@@ -25,10 +25,11 @@
 - [ ] gitter
 - [ ] uget
 - [ ] spotify, musixmatch
-- [ ] shutter
-- [ ] lightworks
-- [ ] gitter
+- [ ] shutter - snapshot
+- [ ] lightworks - video editing
+- [ ] gitter - developer chat 
 - [ ] synaptic packet manager
 ```sh
     sudo apt-get install synaptic
 ```
+- [ ] remarkable - md editor app
