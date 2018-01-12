@@ -34,4 +34,9 @@
 ```
 - [ ] remarkable - md editor app [website]( https://remarkableapp.github.io/) 
 - [ ] pixeluvo - photo editor like photoshop
-- [ ] obs-studio - open broadcaster screen recorder [website]( https://obsproject.com/download)
+- [ ] kazam- screen recorder 
+```sh
+    sudo apt-get install kazam
+```
+- [ ] audacity- audio editor for linux (install from Software Centre) 
+
