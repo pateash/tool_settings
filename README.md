@@ -33,3 +33,5 @@
     sudo apt-get install synaptic
 ```
 - [ ] remarkable - md editor app [website]( https://remarkableapp.github.io/) 
+- [ ] pixeluvo - photo editor like photoshop
+- [ ] obs-studio - open broadcaster screen recorder [website]( https://obsproject.com/download)
