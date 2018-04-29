@@ -40,3 +40,6 @@
 ```
 - [ ] audacity- audio editor for linux (install from Software Centre) 
 
+- [ ] psensor- sensor for tracking system temperature etc 
+    following [askubuntu link](https://askubuntu.com/a/628124/761496) 
+
